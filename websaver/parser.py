@@ -39,6 +39,7 @@ def parse_blog():
     return data
 
 
+# 주석처리
 # with open(os.path.join(BASE_DIR, "result.json"), "w+") as json_file:
 #     json.dump(data, json_file)
 
